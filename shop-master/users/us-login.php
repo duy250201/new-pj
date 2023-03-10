@@ -1,0 +1,60 @@
+
+<?php
+    include 'login.php'
+
+?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/bootstrap.css">
+	<link rel="stylesheet" href="../css/icomoon.css">
+</head>
+<body>
+	<div id="fh5co-started" style="height:100vh">
+		<div class="container">
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+					<h2>Xin mời đăng nhập</h2>
+				</div>
+			</div>
+			<div class="row animate-box">
+				<div class="col-md-8 col-md-offset-2">
+					<?php
+						if(!empty($login_err)){
+							echo '<div class="alert alert-danger">' . $login_err . '</div>';
+						}        
+					?>
+					<form class="form-inline" action=" <?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+						<div class="col-md-6 col-sm-6">
+							<div class="form-group">
+								<label style="justify-content: flex-start;">Tài khoản</label>
+								<input type="text" name="username" class="form-control   php echo (!empty($username_err)) ? 'is-invalid' : ''; ?>" value="<?php echo $username; ?>">
+								<span class="invalid-feedback"> <?php   echo $username_err; ?></span>
+							</div>
+                            <div class="form-group">
+								<label style="justify-content: flex-start;">Mật khẩu</label>	
+								<input type="password" name="password" class="form-control php echo (!empty($password_err)) ? 'is-invalid' : ''; ?>">
+								<span class="invalid-feedback"> <?php echo $password_err; ?></span>
+							</div>
+                            
+						</div>
+						<div class="col-md-6 col-sm-6">
+							<input type="submit" class="btn btn-default btn-block" style="margin-top:2rem" value="Đăng Nhập">
+						</div>
+					</form>
+				</div>
+			</div>
+            <div style="text-align: center; margin-top:11rem; font-size: large;">
+				<p>Quay lại <a href="../">Trang chủ</a></p>
+                <p>Đăng kí tài khoản <a href="us-register.php">tại đây</a>.</p>
+            </div>
+		</div>
+	</div>
+</body>
+</html>

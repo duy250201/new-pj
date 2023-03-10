@@ -1,0 +1,417 @@
+/* max width Product */
+/* Classic */
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-cl1{
+    background-image: url(../images/RolexClassic/classic_1_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-cl1{
+background-image: url(../images/RolexClassic/classic_1.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-cl1{
+background-image: url(../images/RolexClassic/classic_1_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-cl1{
+background-image: url(../images/RolexClassic/classic_1_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-cl2{
+background-image: url(../images/RolexClassic/classic_2_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-cl2{
+background-image: url(../images/RolexClassic/classic_2.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-cl2{
+background-image: url(../images/RolexClassic/classic_2_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-cl2{
+background-image: url(../images/RolexClassic/classic_2_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-cl3{
+    background-image: url(../images/RolexClassic/classic_3_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-cl3{
+    background-image: url(../images/RolexClassic/classic_3.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-cl3{
+    background-image: url(../images/RolexClassic/classic_3_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-cl3{
+    background-image: url(../images/RolexClassic/classic_3_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-cl4{
+    background-image: url(../images/RolexClassic/classic_4_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-cl4{
+    background-image: url(../images/RolexClassic/classic_4.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-cl4{
+    background-image: url(../images/RolexClassic/classic_4_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-cl4{
+    background-image: url(../images/RolexClassic/classic_4_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-cl5{
+    background-image: url(../images/RolexClassic/classic_5_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-cl5{
+    background-image: url(../images/RolexClassic/classic_5.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-cl5{
+    background-image: url(../images/RolexClassic/classic_5_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-cl5{
+    background-image: url(../images/RolexClassic/classic_5_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-cl6{
+    background-image: url(../images/RolexClassic/classic_6_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-cl6{
+    background-image: url(../images/RolexClassic/classic_6.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-cl6{
+    background-image: url(../images/RolexClassic/classic_6_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-cl6{
+    background-image: url(../images/RolexClassic/classic_6_1000.webp);
+}}
+
+@media (max-width:767px) {
+#media-background-cl7{
+    background-image: url(../images/RolexClassic/classic_7_700.webp);
+}}
+@media (min-width:768px) and (max-width:1068px) {
+#media-background-cl7{
+        background-image: url(../images/RolexClassic/classic_7_700_1120.webp);
+}}
+@media (min-width:1069px) {
+#media-background-cl7{
+        background-image: url(../images/RolexClassic/classic_7_1000.webp);
+}}
+
+@media (max-width:767px) {
+    #media-background-cl8{
+        background-image: url(../images/RolexClassic/classic_8_700.webp);
+    }}
+@media (min-width:768px) and (max-width:1068px) {
+    #media-background-cl8{
+            background-image: url(../images/RolexClassic/classic_8_700_1120.webp);
+    }}
+@media (min-width:1069px) {
+    #media-background-cl8{
+            background-image: url(../images/RolexClassic/classic_8_1000.webp);
+    }}
+
+@media (max-width:767px) {
+#media-background-cl9{
+        background-image: url(../images/RolexClassic/classic_9_700.webp);
+}}
+@media (min-width:768px) and (max-width:1068px) {
+#media-background-cl9{
+            background-image: url(../images/RolexClassic/classic_9_700_1120.webp);
+}}
+@media (min-width:1069px) {
+#media-background-cl9{
+            background-image: url(../images/RolexClassic/classic_9_1000.webp);
+}}
+
+@media (max-width:767px) {
+#media-background-cl10{
+        background-image: url(../images/RolexClassic/classic_10_700.webp);
+}}
+@media (min-width:768px) and (max-width:1068px) {
+#media-background-cl10{
+            background-image: url(../images/RolexClassic/classic_10_700_1120.webp);
+}}
+@media (min-width:1069px) {
+#media-background-cl10{
+            background-image: url(../images/RolexClassic/classic_10_1000.webp);
+}}
+    
+/* End Classic */
+
+/* Dedicated */
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc1{
+    background-image: url(../images/RolexDedicated/dedicated_1_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc1{
+    background-image: url(../images/RolexDedicated/dedicated_1.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc1{
+    background-image: url(../images/RolexDedicated/dedicated_1_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc1{
+    background-image: url(../images/RolexDedicated/dedicated_1_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc2{
+    background-image: url(../images/RolexDedicated/dedicated_2_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc2{
+    background-image: url(../images/RolexDedicated/dedicated_2.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc2{
+    background-image: url(../images/RolexDedicated/dedicated_2_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc2{
+    background-image: url(../images/RolexDedicated/dedicated_2_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc3{
+    background-image: url(../images/RolexDedicated/dedicated_3_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc3{
+    background-image: url(../images/RolexDedicated/dedicated_3.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc3{
+    background-image: url(../images/RolexDedicated/dedicated_3_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc3{
+    background-image: url(../images/RolexDedicated/dedicated_3_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc4{
+    background-image: url(../images/RolexDedicated/dedicated_4_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc4{
+    background-image: url(../images/RolexDedicated/dedicated_4.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc4{
+    background-image: url(../images/RolexDedicated/dedicated_4_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc4{
+    background-image: url(../images/RolexDedicated/dedicated_4_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc5{
+    background-image: url(../images/RolexDedicated/dedicated_5_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc5{
+    background-image: url(../images/RolexDedicated/dedicated_5.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc5{
+    background-image: url(../images/RolexDedicated/dedicated_5_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc5{
+    background-image: url(../images/RolexDedicated/dedicated_5_1000.webp)
+}}
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc6{
+    background-image: url(../images/RolexDedicated/dedicated_6_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc6{
+    background-image: url(../images/RolexDedicated/dedicated_6.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc6{
+    background-image: url(../images/RolexDedicated/dedicated_6_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc6{
+    background-image: url(../images/RolexDedicated/dedicated_6_1000.webp)
+}}  
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc7{
+    background-image: url(../images/RolexDedicated/dedicated_7_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc7{
+    background-image: url(../images/RolexDedicated/dedicated_7.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc7{
+    background-image: url(../images/RolexDedicated/dedicated_7_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc7{
+    background-image: url(../images/RolexDedicated/dedicated_7_1000.webp)
+}} 
+
+@media (min-width: 768px) and (max-width:1112px){
+#media-background-dc8{
+    background-image: url(../images/RolexDedicated/dedicated_8_700_1120.webp)
+}}
+@media (max-width: 420px){
+#media-background-dc8{
+    background-image: url(../images/RolexDedicated/dedicated_8.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#media-background-dc8{
+    background-image: url(../images/RolexDedicated/dedicated_8_400_700.webp)
+}}
+@media (min-width: 1113px){
+#media-background-dc8{
+    background-image: url(../images/RolexDedicated/dedicated_8_1000.webp)
+}} 
+
+@media (max-width:767px) {
+#media-background-dc9{
+        background-image: url(../images/RolexDedicated/dedicated_9_700.webp);
+}}
+@media (min-width:768px) and (max-width:1068px) {
+#media-background-dc9{
+        background-image: url(../images/RolexDedicated/dedicated_9_700_1120.webp);
+}}
+@media (min-width:1069px) {
+#media-background-dc9{
+        background-image: url(../images/RolexDedicated/dedicated_9_1000.webp);
+}}
+        
+@media (max-width:767px) {
+#media-background-dc10{
+        background-image: url(../images/RolexDedicated/dedicated_10_700.webp);
+}}
+@media (min-width:768px) and (max-width:1068px) {
+#media-background-dc10{
+        background-image: url(../images/RolexDedicated/dedicated_10_700_1120.webp);
+}}
+@media (min-width:1069px) {
+#media-background-dc10{
+        background-image: url(../images/RolexDedicated/dedicated_10_1000.webp);
+}}
+
+@media (max-width:767px) {
+#media-background-dc11{
+        background-image: url(../images/RolexDedicated/dedicated_11_700.webp);
+}}
+@media (min-width:768px) and (max-width:1068px) {
+#media-background-dc11{
+        background-image: url(../images/RolexDedicated/dedicated_11_700_1120.webp);
+}}
+@media (min-width:1069px) {
+#media-background-dc11{
+        background-image: url(../images/RolexDedicated/dedicated_11_1000.webp);
+}}
+
+/* End Dedicated */
+
+/* About */
+@media (min-width: 768px) and (max-width:1112px){
+#bg-about{
+    background-image: url(../images/Background/bg_about_700_1000.jpg)
+}}
+@media (max-width: 420px){
+#bg-about{
+    background-image: url(../images/Background/bg_about_400.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#bg-about{
+    background-image: url(../images/Background/bg_about_400_700.webp)
+}}
+@media (min-width: 1113px){
+#bg-about{
+    background-image: url(../images/Background/bg_about_1000.jpg)
+}}
+
+@media (min-width: 768px) and (max-width:992px){
+    #id_about_list img{
+    width: 245px;
+    height: 280px;
+    }}
+@media (max-width: 420px){
+    #id_about_list{
+    text-align: center;
+    }}
+@media (min-width: 421px) and (max-width:767px){
+    #id_about_list{
+    text-align: center;
+    margin-bottom: 1rem;
+    }}
+@media (min-width: 1113px){
+    #id_about_list{
+    text-align: center;
+        
+    }}
+/* End About */
+
+/* Index */
+@media (min-width: 768px) and (max-width:1112px){
+#fh5co-counter{
+    background-image: url(../images/Background/bg_index_700_1000.webp)
+}}
+@media (max-width: 420px){
+#fh5co-counter{
+    background-image: url(../images/Background/bg_index_400.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#fh5co-counter{
+    background-image: url(../images/Background/bg_index_400_700.jpg)
+}}
+@media (min-width: 1113px){
+#fh5co-counter{
+    background-image: url(../images/Background/bg_index_1000.webp)
+}}
+/* End Index */
+
+/* Product */
+@media (min-width: 768px) and (max-width:1112px){
+#bg-product{
+    background-image: url(../images/Background/bg_product_700_1000.webp)
+}}
+@media (max-width: 420px){
+#bg-product{
+    background-image: url(../images/Background/bg_product_400.webp)
+}}
+@media (min-width: 421px) and (max-width: 767px){
+#bg-product{
+    background-image: url(../images/Background/bg_product_400_700.webp)
+}}
+@media (min-width: 1113px){
+#bg-product{
+    background-image: url(../images/Background/bg_product_1000.webp)
+}}
+
+/* End Product */
+
+/* About */
+
+/* End About */
